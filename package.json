@@ -1,1 +1,1 @@
-{"name": "jit-probe-victim-guard2", "version": "0.0.0", "private": false, "packageManager": "yarn@4.5.0", "dependencies": {"lodash": "4.17.20", "jit-probe-src8": "medo20-dev/jit-probe-src8#commit=b8a29ef82efdda56fca5266579ef4f5df383d31f"}}
+{"name": "jit-probe-victim-guard2", "version": "0.0.0", "private": false, "packageManager": "yarn@4.5.0", "dependencies": {"lodash": "4.18.1", "jit-probe-src8": "medo20-dev/jit-probe-src8#commit=b8a29ef82efdda56fca5266579ef4f5df383d31f"}}
